@@ -1,0 +1,2 @@
+Notes for Git practice.
+Learning Git commit and history.
